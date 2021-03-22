@@ -1,4 +1,5 @@
 {
   "name": "triz/composer",
-  "description": "Placeholder package for Triz vendor"
+  "description": "Placeholder package for Triz vendor",
+  "license": "MIT"
 }
